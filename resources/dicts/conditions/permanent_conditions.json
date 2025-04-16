@@ -15,6 +15,14 @@
         "illness_infectiousness": [
         ],
         "risks": [
+            {
+                "name": "sore",
+                "chance": 20
+            },
+            {
+                "name": "joint pain",
+                "chance": 40
+            }
         ],
         "herbs": {
             "1": [],
